@@ -1,6 +1,6 @@
 # Script that convert 'Second January two thousand eleven' to 02/01/2011
 # Or 'Twenty Third October two thousand fifthteen' to 23/10/2015
-# IT WORKS ONLY FOR THIS TWENTY-FIRST CENTURY UNTIL 2031 ! 
+# IT WORKS ONLY FOR THIS TWENTY-FIRST CENTURY UNTIL 2032 ! 
 
 # I'm will not use any library
 
